@@ -7,10 +7,10 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Haltern am See",
+    "city": "Haltern",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.bistum-muenster.de/sythen",
+        "baseurl": "https://webopac.bistum-muenster.de/lippramsdorf",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -21,12 +21,9 @@
             "status": 3
         }
     },
-    "geo": [
-        51.7739894,
-        7.2234625
-    ],
-    "information": "https://webopac.bistum-muenster.de/sythen/index.asp",
-    "library_id": 3579,
+    "geo": null,
+    "information": "https://webopac.bistum-muenster.de/lippramsdorf/index.asp",
+    "library_id": 3580,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Joseph Sythen"
+    "title": "Kath. \u00d6B St. Lambertus"
 }
